@@ -1,0 +1,9 @@
+﻿[data-theme="dark"] {
+    --body-color: hsl(0, 0%, 85%);
+    --body-bg: hsl(200, 3%, 12%);
+    --heading-color: hsl(0, 0%, 85%);
+    --link-color: rgba(255, 255, 255, 0.75);
+    --link-hover-color: #fff;
+    --border-color: rgba(255, 255, 255, 0.15);
+    --code-bg: #212529;
+}
