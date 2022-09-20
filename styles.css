@@ -7,6 +7,7 @@
     background-color: hsl(200, 3%, 12%);
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
+    padding: 0.5rem 1rem;
 }
 
 @font-face {
