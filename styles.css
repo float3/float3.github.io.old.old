@@ -5,5 +5,10 @@
     --link-color: rgba(255, 255, 255, 0.75);
     --link-hover-color: #fff;
     --border-color: rgba(255, 255, 255, 0.15);
-    --code-bg: #212529;
+    --code-bg: #212529;;
+}
+
+@font-face {
+    font-family: 'Garamond Classico SC Regular';
+    src: url('Garamond Classico SC Regular.ttf');
 }
