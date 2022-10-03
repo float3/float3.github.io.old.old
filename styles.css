@@ -25,3 +25,25 @@ a:hover {
 a:visited {
     color: #fff;
 }
+
+@media (prefers-color-scheme: dark) {
+    .day.dark-scheme {
+        background-color: hsl(200, 3%, 12%);
+        color: hsl(0, 0%, 85%);
+    }
+    .night.dark-scheme {
+        background: black;
+        color: #ddd;
+    }
+}
+
+@media (prefers-color-scheme: light) {
+    .day.light-scheme {
+        background: white;
+        color: #555;
+    }
+    .night.light-scheme {
+        background: #eee;
+        color: black;
+    }
+}
