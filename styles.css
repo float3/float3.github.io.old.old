@@ -47,3 +47,7 @@ a:visited {
         color: black;
     }
 }
+
+video {
+width: 100%;
+}
