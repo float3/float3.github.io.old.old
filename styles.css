@@ -8,12 +8,6 @@
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     padding: 0.5rem 1rem;
-    font-family: 'Garamond Classico SC Regular';
-}
-
-@font-face {
-    font-family: 'Garamond Classico SC Regular';
-    src: url('Garamond Classico SC Regular.ttf');
 }
 
 a:link {
@@ -46,8 +40,4 @@ a:visited {
         background: #eee;
         color: black;
     }
-}
-
-video {
-width: 100%;
 }
